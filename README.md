@@ -41,7 +41,9 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
 
 **Tech**
 
-- React
+- html
+- css3
+- js
 - Firebase
 - Android
 - iOS
@@ -63,7 +65,7 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
 
 양문고 학생들을 위한 학교생활 웹 애플리케이션
 
-- React
+- TypeScript
 - Firebase
 - Responsive Web
 
@@ -78,6 +80,7 @@ AI 추론 과정을 시각화하는 프로젝트
 - Gemini
 - Prompt Engineering
 - UI Design
+- Workspace Development
 
 ---
 
@@ -96,12 +99,9 @@ AI 추론 과정을 시각화하는 프로젝트
 - GHAS 알리미 개발 및 출시
 - 흐르르 프론트엔드 개발 참여
 - 비주얼캠프 도제 과정
-- 학생기자단 활동
-- 청소년운영위원회 정책부
 - .HACK Conference 참가
 - The Ignition Conference 참가
 - 경기 청소년 사이버 보안 캠프 참가
-- SW미래채움 AI·SW Challenge 참가
 
 ---
 
