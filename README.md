@@ -51,7 +51,7 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
 - .HACK Conference 참가
 - The Ignition Conference 참가
 - 경기 청소년 사이버 보안 캠프 참가
-- 정보처리산업기사(과정평가형)
+- 정보처리산업기사(과정평가형) <br>
   취득일: 2026.07.09
 
 ---
