@@ -11,7 +11,7 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
 
 ---
 
-# 🛠 Technologies & Tools
+# Technologies & Tools
 
 ### Languages
 
@@ -55,7 +55,7 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
   취득일: 2026.07.09
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <!-- 1. 기본 통계 카드 (안정적인 대체 API) -->
