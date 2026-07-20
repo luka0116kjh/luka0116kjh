@@ -30,16 +30,12 @@
 ## 📈 GitHub Stats
 ## 📈 GitHub Stats
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" width="100%" />
-    </td>
-  </tr>
-</table>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" height="195" />
+</p>
 
 ---
 
