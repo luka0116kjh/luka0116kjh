@@ -57,11 +57,13 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
 ---
 ## 📊 GitHub Stats
 
-<!-- 1. 기본 통계 카드 -->
-[![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=luka0116kjh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 2. 연속 커밋 스트릭 -->
-[![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <!-- 1. 기본 통계 카드 (안정적인 대체 API) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luka0116kjh&show_icons=true&theme=dark" alt="Luka's GitHub stats" />
+  <br /><br />
+  <!-- 2. 연속 커밋 스트릭 (업데이트된 전용 서버) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
