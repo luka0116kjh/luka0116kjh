@@ -55,7 +55,13 @@ AI를 활용한 개발(Vibe Coding), 리버싱, 웹 보안에도 관심을 가�
   취득일: 2026.07.09
 
 ---
+## 📊 GitHub Stats
 
+<!-- 1. 기본 통계 카드 -->
+[![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=luka0116kjh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 2. 연속 커밋 스트릭 (선택 사항) -->
+[![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark)](https://git.io/streak-stats)
 
 ---
 
