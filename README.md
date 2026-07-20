@@ -28,13 +28,18 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <!-- 1. 기본 통계 카드 (안정적인 대체 API) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luka0116kjh&show_icons=true&theme=dark" alt="Luka's GitHub stats" />
-  <br /><br />
-  <!-- 2. 연속 커밋 스트릭 (업데이트된 전용 서버) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" alt="GitHub Streak" />
-</p>
+## 📈 GitHub Stats
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
