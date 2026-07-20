@@ -27,16 +27,13 @@
 
 ---
 
-## 📈 GitHub Stats
-## 📈 GitHub Stats
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" height="175" />
 </p>
-
 ---
 
 ## 🏆 Awards
