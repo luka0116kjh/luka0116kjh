@@ -32,7 +32,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" width="100%" />
