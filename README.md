@@ -29,22 +29,15 @@
 
 ## 📈 GitHub Stats
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luka0116kjh&theme=dark&show_icons=true" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh&theme=dark" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align = "center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangjiae12&theme=dracula" />
+</div>
 ---
 
 ## 🏆 Awards
 * 🥉 **총장배 로봇 프로그래밍 경진대회** 3위
 * 🥉 **현대오토에버 화이트해커 입상**
-* 🥉 **아주대 coss 예선전 ** 7등
+* 🥉 **아주대 coss 예선전** 7등
 * 🥉 **교내 포트폴리오 경진대회** 1·2학년 연속 3위
 
 ---
