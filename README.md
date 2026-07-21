@@ -30,8 +30,9 @@
 ## 📈 GitHub Stats
 
 <div align = "center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangjiae12&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka0116kjh&theme=dracula" />
 </div>
+
 ---
 
 ## 🏆 Awards
