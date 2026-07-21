@@ -31,7 +31,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka0116kjh&theme=dracula" />
-  <br>
   <!-- 주로 사용하는 언어 비율 카드 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka0116kjh&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   <br>
