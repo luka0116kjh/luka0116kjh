@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=220&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=Frontend%20%7C%20AI%20%7C%20Web%20Security&subfontSize=20" alt="Luka Header" />
+  <a href="https://velog.io/@luka0116kjh/posts" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=220&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=Frontend%20%7C%20AI%20%7C%20Web%20Security&subfontSize=20" alt="Luka Header" />
+  </a>
 </p>
 
 <p align="center">
