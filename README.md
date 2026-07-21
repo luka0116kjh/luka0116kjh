@@ -29,7 +29,7 @@
 
 ## 📈 GitHub Stats
 
-<div align = "center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka0116kjh&theme=dracula" />
 </div>
 
