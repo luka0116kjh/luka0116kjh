@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:36BCF7,100:A855F7&height=200&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=45&subtext=Frontend%20%7C%20AI%20%7C%20Web%20Security&subfontSize=20" alt="Luka Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=220&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=Frontend%20%7C%20AI%20%7C%20Web%20Security&subfontSize=20" alt="Luka Header" />
 </p>
 
 <p align="center">
