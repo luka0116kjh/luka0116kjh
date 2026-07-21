@@ -1,4 +1,7 @@
 # <p align="center">👋 Hi, I'm Luka!</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:36BCF7,100:A855F7&height=200&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=45&subtext=Frontend%20%7C%20AI%20%7C%20Web%20Security&subfontSize=20" alt="Luka Header" />
+</p>
 
 <p align="center">
   <b>Student Developer | Frontend | AI | Security</b><br>
@@ -31,9 +34,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka0116kjh&theme=dracula" />
-  <!-- 주로 사용하는 언어 비율 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka0116kjh&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  <br>
 </div>
 
 ---
