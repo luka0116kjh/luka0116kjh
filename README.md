@@ -34,7 +34,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luka0116kjh&theme=dracula" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luka0116kjh)
 </div>
 
 ---
