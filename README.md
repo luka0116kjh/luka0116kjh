@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://metrics.lecoq.io/luka0116kjh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FSeoul" alt="GitHub Stats" />
 </p>
 
