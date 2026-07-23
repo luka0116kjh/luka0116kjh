@@ -34,7 +34,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luka0116kjh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/luka0116kjh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FSeoul" alt="GitHub Stats" />
 </p>
 
 ---
