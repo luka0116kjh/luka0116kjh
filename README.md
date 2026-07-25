@@ -35,9 +35,7 @@
 
 <p align="left">
   <img src="https://metrics.lecoq.io/luka0116kjh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FSeoul" alt="Metrics" />
-  <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD2V7NASFU2Avxf6ZiR8-no-AXGqCL6gTCLZ8eGupWbA&s=10" alt="네네 캐릭터"/>
-</p>
 </p>
 
 ---
