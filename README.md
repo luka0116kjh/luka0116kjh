@@ -36,7 +36,6 @@
 <p align="left">
   <img src="https://metrics.lecoq.io/luka0116kjh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FSeoul" alt="Metrics" />
 </p>
-![3d-contribution](profile-3d-contrib/profile-green-animate.svg)
 ---
 
 ## 🏆 Awards
