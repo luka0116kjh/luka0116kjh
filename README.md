@@ -42,3 +42,14 @@ Focused on web & app development (Python, React, TypeScript), engaging in Vibe C
 - 일학습병행 과정
 - 경기 청소년 사이버 보안 캠프 참가
 - *정보처리산업기사(과정평가형)* *(취득일: 2026.07.09)*
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luka0116kjh/luka0116kjh/output/snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/luka0116kjh/luka0116kjh/output/snake.svg" />
+  </picture>
+</div>
