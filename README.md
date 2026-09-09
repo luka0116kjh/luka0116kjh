@@ -34,8 +34,8 @@ Focused on web & app development (Python, React, TypeScript), engaging in Vibe C
 
 </p>
 ## Activities & Teams
-* **NULL** (팀 창설 및 리더) — ctf 보안 해킹팀
-* **Hwalbin (활빈)** — 보안 연구및 ctf 대회 참가및 버그바운티 팀
+* **NULL** (팀 창설 및 리더) — ctf 보안 해킹팀 <br>
+* **Hwalbin (활빈)** — 보안 연구및 ctf 대회 참가및 버그바운티 팀<br>
 ---
 
 ## Experience
