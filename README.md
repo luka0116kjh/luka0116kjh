@@ -6,18 +6,18 @@
 
 <p align="center">
   <b>Student Developer | Frontend | AI | Security</b><br>
-  호기심을 프로젝트로 만들며 성장하는 학생 개발자입니다.<br>
-  웹·앱 개발(Python, React, TypeScript)을 중심으로 Vibe Coding, 리버싱, 웹 보안 프로젝트를 진행하고 있습니다.
+Focused on web & app development (Python, React, TypeScript), engaging in Vibe Coding, reverse engineering, and web security projects.
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -25,31 +25,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Interests
-- 🚀 Vibe Coding
-- 🔍 Reverse Engineering
-- 🛡️ Web Security
+- Vibe Coding
+- **OpenAI Codex & AI Tools**
+- Reverse Engineering
+- Web Security
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://metrics.lecoq.io/luka0116kjh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FSeoul" alt="Metrics" />
 </p>
-
-
-## 🏆 Awards
-* 🥉 **총장배 로봇 프로그래밍 경진대회** 3위
-* 🥉 **현대오토에버 화이트해커 입상**
-* 🥉 **아주대 coss 예선전** 7등
-* 🥉 **교내 포트폴리오 경진대회** 1·2학년 연속 3위
-
+## Activities & Teams
+* **NULL** (팀 창설 및 리더) — ctf 보안 해킹팀
+* **Hwalbin (활빈)** — 보안 연구및 ctf 대회 참가및 버그바운티 팀
 ---
 
-## 💼 Experience
+## Experience
 * GHAS 알리미 개발 및 출시
 * 흐르르 프론트엔드 개발 참여
 * 일학습병행 과정
-* .HACK Conference / The Ignition Conference 참가
 * 경기 청소년 사이버 보안 캠프 참가
 * **정보처리산업기사(과정평가형)** *(취득일: 2026.07.09)*
