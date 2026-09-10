@@ -42,7 +42,7 @@ Focused on web & app development (Python, React, TypeScript), engaging in Vibe C
 ### 운영체제
 
 ![Kali Linux, Linux, Windows, macOS](https://skillicons.dev/icons?i=kali,linux,windows,apple&theme=dark)
-## ✨ Interests
+## Interests
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-8B5CF6?style=for-the-badge)
 ![OpenAI Codex & AI Tools](https://img.shields.io/badge/OpenAI%20Codex%20%26%20AI%20Tools-10A37F?style=for-the-badge)
