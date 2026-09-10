@@ -11,19 +11,37 @@ Focused on web & app development (Python, React, TypeScript), engaging in Vibe C
 
 ---
 
-## Technologies & Tools
+## Tech Stack
 
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+### 프로그래밍 언어
 
-### Frontend
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![Python, JavaScript, TypeScript, Java](https://skillicons.dev/icons?i=python,js,ts,java&theme=dark)
 
+### 웹 프론트엔드
+
+![React, HTML, CSS](https://skillicons.dev/icons?i=react,html,css&theme=dark)
+
+### 앱 개발
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### 백엔드
+
+![FastAPI, Node.js, Firebase](https://skillicons.dev/icons?i=fastapi,nodejs,firebase&theme=dark)
+
+### 보안 & AI
+
+![Ghidra](https://img.shields.io/badge/Ghidra-B91C1C?style=for-the-badge)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-0891B2?style=for-the-badge)
+
+### 개발 도구
+
+![Docker, GitHub, Git](https://skillicons.dev/icons?i=docker,github,git&theme=dark)
+
+### 운영체제
+
+![Kali Linux, Linux, Windows, macOS](https://skillicons.dev/icons?i=kali,linux,windows,apple&theme=dark)
 ## Interests
 - Vibe Coding
 - *OpenAI Codex & AI Tools*
