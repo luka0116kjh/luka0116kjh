@@ -48,6 +48,7 @@ Focused on web & app development (Python, React, TypeScript), engaging in Vibe C
 ![OpenAI Codex & AI Tools](https://img.shields.io/badge/OpenAI%20Codex%20%26%20AI%20Tools-10A37F?style=for-the-badge)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-6E40C9?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/Web%20Security-238636?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-1F6FEB?style=for-the-badge)
 
 ## Activities & Teams
 * **NULL** (팀 창설 및 리더) — CTF 보안 해킹팀
