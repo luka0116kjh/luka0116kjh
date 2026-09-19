@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm Luka!" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=HELLO,%20I'M%20LUKA!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm Rem!" width="100%" />
   <p><strong>Student Developer · Frontend · AI · Security</strong></p>
   <p>
     Building web &amp; app experiences with Python, React, and TypeScript.<br />
